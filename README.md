@@ -1,4 +1,4 @@
-# Myklassroom API 
+# Management Project Api
 
 Node JS API for new next generation Myklassroom Platform using TypeScript
 
