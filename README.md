@@ -21,6 +21,6 @@ Run `npm install` or `yarn install` to install all the node modules.
 
 ## Development server
 
-Run `npm run dev` or `yarn dev` for a dev server. Navigate to `http://localhost:3000/`. 
+Run `npm start` or `yarn dev` for a dev server. Navigate to `http://localhost:8080/`. 
 
 
