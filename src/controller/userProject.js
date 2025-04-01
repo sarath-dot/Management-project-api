@@ -7,7 +7,6 @@ const { QueryTypes, DataTypes } = require('sequelize');
 // Assigning Projects to the variable Project
 const Project = db.project;
 
-
 const getProject = async (req, res) => {
     try {
         const selectQuery = `SELECT * FROM projects`;
